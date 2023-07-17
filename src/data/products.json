@@ -1,0 +1,199 @@
+[
+    {
+        "name": "Jordan 4 Retro Black Cat",
+        "price": "$285",
+        "description": "This Jordan 4 is composed of a black nubuck suede upper with matching detailing. Black hardware, netting, and outsoles complete the design.",
+        "img": "images/blackcat4s.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "SB Dunk Low Ben & Jerry's Chunky Dunky",
+        "price": "$1,700",
+        "description": "Nike SB and Ben & Jerry’s joined forces to add a new animated release to SB history with the Nike SB Dunk Low Ben & Jerry’s Chunky Dunk",
+        "img": "images/Nike-SB-Dunk-Low-Ben-Jerrys-Chunky-Dunky.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Jordan 1 Retro High Pine Green",
+        "price": "$380",
+        "description": "Jordan Brand expanded their “Black Toe” line up with the Jordan 1 Retro High Pine Green",
+        "img": "images/Pine-greens.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Adidas Yeezy Boost 350 V2 Zebra",
+        "price": "$329",
+        "description": "Fresh off the heels of NBA All-Star Weekend, these Yeezy's are nicknamed the Zebras, and come in a classic white, black and red color scheme.",
+        "img": "images/ZEBRA-yezzy.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Adidas Yeezy 700 Mauve",
+        "price": "$285",
+        "description": "These sneakers come with a mauve upper with black accents, mauve midsole with light green accents, and gum sole.",
+        "img": "images/mauve700.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Nike Air Max 90 OFF-WHITE",
+        "price": "$1,500",
+        "description": "Ice combines a white leather upper with ice blue foam",
+        "img": "images/offwhite90.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Jordan 1 Retro Low Travis Scott",
+        "price": "$943",
+        "description": "Travis Scott adds yet another new design to his collaborative relationship",
+        "img": "images/lowtravis.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Nike Dunk Low Off-White University Red",
+        "price": "$549",
+        "description": "Nike Dunk Low Off-White University Red now available",
+        "img": "images/offwhiteSbs.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Jordan 11 Retro Playoffs Bred",
+        "price": "$322",
+        "description": "Black upper with shiny patent leather and red",
+        "img": "images/bred11ss.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Nike Air Max 90 OFF-WHITE Desert Ore",
+        "price": "$576",
+        "description": ">Nike “Swoosh”, beige midsole, and beige sole",
+        "img": "images/desertOre90.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Nike SB Dunk Low StrangeLove",
+        "price": "$1,112",
+        "description": "This SB Dunk Low is composed of a pink velvet",
+        "img": "images/stangeloveSbs.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Jordan 1 Retro High Off-White University Blue",
+        "price": "$1,699",
+        "description": "“UNC” editions, these Jordan 1s are the third colorway",
+        "img": "images/UncOffwhite.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Nike Air Force 1 Low Travis Scott Sail",
+        "price": "$1,140",
+        "description": "Nike boy Travis Scott linked up with the Swoosh",
+        "img": "images/airforceScott.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Jordan 1 Retro High Off-White Chicago",
+        "price": "$4,900",
+        "description": "Nicknamed The 10 edition, this pair comes in the original Chicago-themed white, black and varsity red colorway",
+        "img": "images/OffChicago.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "adidas Yeezy Boost 350 V2 Cinder",
+        "price": "$220",
+        "description": "This 350 V2 stays true to Yeezy’s signature palette, sporting dark earth tones that provide a natural feeling.",
+        "img": "images/yezzycinder.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Jordan 3 Retro UNC",
+        "price": "$190",
+        "description": "Jordan Brand brings back a mid-2000’s classic",
+        "img": "images/unc3s.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Jordan 6 Retro Travis Scott",
+        "price": "$250",
+        "description": "Air Jordan silhouette that Cactus Jack has touched.",
+        "img": "images/travis6s.jpg",
+        "category": "shoes"
+    },
+    {
+        "name": "Supreme Takashi Murakami Relief Box Logo",
+        "price": "$600",
+        "description": "Supreme has collaborated with Takashi Murakami for an exclusive COVID-19 Relief Box Logo Tee.",
+        "img": "images/SupremeCOVID19-Product.jpg",
+        "category": "Tops"
+    },
+    {
+        "name": "Supreme Brooklyn Box Logo",
+        "price": "$795",
+        "description": "White Brooklyn Box Logo Tee",
+        "img": "images/Supreme-Brooklyn-Box-Logo-Tee-White.jpg",
+        "category": "Tops"
+    },
+    {
+        "name": "Supreme Chopsticks Set",
+        "price": "$95",
+        "description": "Red Chopsticks Set",
+        "img": "images/Supreme-Chopsticks-Red.jpg",
+        "category": "accessories"
+    },
+    {
+        "name": "Supreme Inflatable Blimp",
+        "price": "$95",
+        "description": "Inflatable Blimp White",
+        "img": "images/Supreme-Inflatable-Blimp-White.jpg",
+        "category": "accessories"
+    },
+    {
+        "name": "Supreme Director's Chair",
+        "price": "$561",
+        "description": " The chair sits 18 high and features a hardwood structure and a canvas back with the word Supreme printed on it.",
+        "img": "images/Supreme-Directors-Chair-Red.jpg",
+        "category": "accessories"
+    },
+    {
+        "name": "Supreme Bandana Box Logo Hoodie",
+        "price": "$578",
+        "description": "The Box Logo Hooded Sweatshirts feature a particularly unique design this season as each box logo comes in the form of a colored bandana.",
+        "img": "images/Supreme-Bandana-Box-Logo-Hooded-Sweatshirt-Heather-Grey.jpg",
+        "category": "Tops"
+
+    },
+    {
+        "name": "Takashi Murakami Flower Rainbow",
+        "price": "$155",
+        "description": "This 30cm Rainbow Flower Plush is an affordable way to own a piece from the masterful Japanese artist.",
+        "img": "images/Flower-30CM-Plush-Rainbow.jpg",
+        "category": "accessories"
+    },
+    {
+        "name": "Takashi Murakami Flower Blue",
+        "price": "$220",
+        "description": "This 30cm Blue/Ivory Flower Plush is an affordable way to own a piece from the masterful Japanese artist.",
+        "img": "images/Flower-30CM-Plush-Blue-White.jpg",
+        "category": "accessories"
+    },
+    {
+        "name": "KAWS Vinyl Figure Black",
+        "price": "$1,120",
+        "description": "Companion Flayed Open Edition Vinyl Figure Black.",
+        "img": "images/Kaws-Companion-Flayed-Open-Edition-Vinyl-Black.jpg",
+        "category": "accessories"
+    },
+    {
+        "name": "Supreme Shoulder Bag",
+        "price": "$293",
+        "description": "Traditionally one of Supreme's most popular items every season, this Supreme Shoulder Bag in black doesn't disappoint (SS18).",
+        "img": "images/Supreme-Shoulder-Bag-SS18-Black.jpg",
+        "category": "accessories"
+    },
+    {
+        "name": "Crystalized Pikachu Blue",
+        "price": "$3,400",
+        "description": "Daniel Arsham released this Crystalized Pikachu Relic on April 24th, 2020. The lovable Pikachu character stands in at 13 inches tall",
+        "img": "images/Pokemon-Crystalized-Pikachu-Future-Relic-Blue-3.jpg",
+        "category": "accessories"
+    }
+]
