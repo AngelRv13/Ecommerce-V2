@@ -1,5 +1,8 @@
 import React from 'react';
 import { Pane, Text, Button, Heading, majorScale, Paragraph, Strong} from 'evergreen-ui'
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 
 const imgSize = {
     height:'6.25rem',
@@ -12,6 +15,7 @@ const box ={
     backgroundColor: "white"
 }
 
+const notify = () => toast("Out of stock");
 
 const Product = ({name, price, description, img}) => {
     return (
@@ -25,7 +29,8 @@ const Product = ({name, price, description, img}) => {
                 <div><img style={imgSize} src={`../../../${img}`}></img></div>
                 <Text><Strong color="skyblue"> {price} </Strong></Text> 
                 <Paragraph> {description} </Paragraph>
-                <Button appearance="primary" height={majorScale(4)} marginTop={20} >Purchase</Button>
+                <Button appearance="primary" height={majorScale(4)} marginTop={20} onClick={notify}>Purchase</Button>
+                <ToastContainer />
             </Pane>
         </Pane>
 
