@@ -19,10 +19,10 @@ function App() {
           <Route path="/" exact element={<Home />} />
           <Route path="/Products" element={<Products />} />
           <Route path="/Contact" element={<Contacts />} />
+        
         </Routes>
       </Router>
 
-      <Footer />
       
     </div>
     

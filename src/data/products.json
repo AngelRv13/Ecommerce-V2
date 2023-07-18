@@ -55,69 +55,7 @@
         "img": "images/offwhiteSbs.jpg",
         "category": "shoes"
     },
-    {
-        "name": "Jordan 11 Retro Playoffs Bred",
-        "price": "$322",
-        "description": "Black upper with shiny patent leather and red",
-        "img": "images/bred11ss.jpg",
-        "category": "shoes"
-    },
-    {
-        "name": "Nike Air Max 90 OFF-WHITE Desert Ore",
-        "price": "$576",
-        "description": ">Nike “Swoosh”, beige midsole, and beige sole",
-        "img": "images/desertOre90.jpg",
-        "category": "shoes"
-    },
-    {
-        "name": "Nike SB Dunk Low StrangeLove",
-        "price": "$1,112",
-        "description": "This SB Dunk Low is composed of a pink velvet",
-        "img": "images/stangeloveSbs.jpg",
-        "category": "shoes"
-    },
-    {
-        "name": "Jordan 1 Retro High Off-White University Blue",
-        "price": "$1,699",
-        "description": "“UNC” editions, these Jordan 1s are the third colorway",
-        "img": "images/UncOffwhite.jpg",
-        "category": "shoes"
-    },
-    {
-        "name": "Nike Air Force 1 Low Travis Scott Sail",
-        "price": "$1,140",
-        "description": "Nike boy Travis Scott linked up with the Swoosh",
-        "img": "images/airforceScott.jpg",
-        "category": "shoes"
-    },
-    {
-        "name": "Jordan 1 Retro High Off-White Chicago",
-        "price": "$4,900",
-        "description": "Nicknamed The 10 edition, this pair comes in the original Chicago-themed white, black and varsity red colorway",
-        "img": "images/OffChicago.jpg",
-        "category": "shoes"
-    },
-    {
-        "name": "adidas Yeezy Boost 350 V2 Cinder",
-        "price": "$220",
-        "description": "This 350 V2 stays true to Yeezy’s signature palette, sporting dark earth tones that provide a natural feeling.",
-        "img": "images/yezzycinder.jpg",
-        "category": "shoes"
-    },
-    {
-        "name": "Jordan 3 Retro UNC",
-        "price": "$190",
-        "description": "Jordan Brand brings back a mid-2000’s classic",
-        "img": "images/unc3s.jpg",
-        "category": "shoes"
-    },
-    {
-        "name": "Jordan 6 Retro Travis Scott",
-        "price": "$250",
-        "description": "Air Jordan silhouette that Cactus Jack has touched.",
-        "img": "images/travis6s.jpg",
-        "category": "shoes"
-    },
+
     {
         "name": "Supreme Takashi Murakami Relief Box Logo",
         "price": "$600",
@@ -175,25 +113,13 @@
         "img": "images/Flower-30CM-Plush-Blue-White.jpg",
         "category": "accessories"
     },
-    {
-        "name": "KAWS Vinyl Figure Black",
-        "price": "$1,120",
-        "description": "Companion Flayed Open Edition Vinyl Figure Black.",
-        "img": "images/Kaws-Companion-Flayed-Open-Edition-Vinyl-Black.jpg",
-        "category": "accessories"
-    },
+ 
     {
         "name": "Supreme Shoulder Bag",
         "price": "$293",
         "description": "Traditionally one of Supreme's most popular items every season, this Supreme Shoulder Bag in black doesn't disappoint (SS18).",
         "img": "images/Supreme-Shoulder-Bag-SS18-Black.jpg",
         "category": "accessories"
-    },
-    {
-        "name": "Crystalized Pikachu Blue",
-        "price": "$3,400",
-        "description": "Daniel Arsham released this Crystalized Pikachu Relic on April 24th, 2020. The lovable Pikachu character stands in at 13 inches tall",
-        "img": "images/Pokemon-Crystalized-Pikachu-Future-Relic-Blue-3.jpg",
-        "category": "accessories"
     }
 ]
+    

@@ -1,13 +1,16 @@
 import React from 'react';
 import './App.css';
 import Product from './components/product'
-import productData from './data/products.json'
 import Footer from './components/Footer';
 
 
 // we set equal our products
 const intialState = {
-    products: productData
+    filteredProducts: [],
+    //all products is used to hold all products
+    allProducts: [],
+    isLoading: true,
+    errorMessage: null
 }
 // this.state is our brain 
 // exntending functionality from react.component base class
@@ -18,6 +21,16 @@ class Products extends React.Component {
         this.state = intialState
     }
 
+    async componentDidMount() {
+        try {
+          const response = await fetch('http://localhost:4001/api/products');
+          const data = await response.json();
+          this.setState({ filteredProducts: data, allProducts:data, isLoading: false });
+    
+        } catch (error) {
+          this.setState({ error: "failed to get products", isLoading: false });
+        }
+      }
 
     //filtering thru all our products
     //onChange I want this code to RUN/FILTER
@@ -26,26 +39,27 @@ class Products extends React.Component {
         // retrive the value
         let value = evt.target.value
         // spread operator makes copy of existing object
-        const allProducts = [...intialState.products]
+        const allProducts = [...this.state.allProducts]
          // reset our products when we want find new products
+         console.log(value)
         if (value === "All") {
             // return all products
             this.setState({ products: allProducts })
             return
         }
         // new array with all elements 
-        const filterProducts = allProducts.filter(product => product.category === value)
+        const filterProducts = allProducts.filter(product => product.category.toLowerCase() === value.toLowerCase())
         // only products that we filter
         // 
-        this.setState({ products: filterProducts })
+        this.setState({ filteredProducts: filterProducts })
         //reset the array when filtering out
 
     }
 
     // rendering to DOM
     render() {
-        const mappedProducts = this.state.products.map(product => {
-            return <Product name={product.name} price={product.price} description={product.description} img={product.img} />
+        const mappedProducts = this.state.filteredProducts.map(product => {
+            return <Product name={product.name} price={product.price} description={product.description} img={product.image} />
         })
         return (
             <div className="product-page">
