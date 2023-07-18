@@ -4,7 +4,7 @@ function Home() {
     return (
       <div className="text-title">
         <h1 className="red">7O4 Kicks</h1>
-        <p>Come shop and explore our fire kicks and gear!</p>
+        <p>Come shop and explore our fire kicks</p>
       </div>
     )
 }

@@ -1,3 +1,23 @@
 .red {
     color: red;
 }
+.slider-container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .carousel-image {
+    width: 33.3%;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .carousel-image {
+      width: 50%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .carousel-image {
+      width: 100%;
+    }
+  }

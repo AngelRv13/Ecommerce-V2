@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Mobile */
+@media (max-width: 767px) {
+  /* styles for mobile */
+}
+
+/* Tablet */  
+@media (min-width: 768px) and (max-width: 1023px) {
+  /* styles for tablet */
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  /* styles for desktop */ 
+}
+
+/* Large Desktop */
+@media (min-width: 1200px) {
+  /* styles for large desktop */
+}
